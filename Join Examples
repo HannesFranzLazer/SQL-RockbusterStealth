@@ -1,0 +1,10 @@
+# SQL query to find the top 10 countries for Rockbuster in terms of customer numbers. 
+
+
+
+# SQL query to identify the top 10 cities that fall within the top 10 countries I identified above.
+
+
+
+# SQL query to find the top 5 customers from the top 10 cities above who’ve paid the highest total amounts to Rockbuster. 
+
